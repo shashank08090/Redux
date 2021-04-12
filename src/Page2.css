@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#Page2{
+    height: 30vh;
+    width: 100vw;
+    background-color: aquamarine;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#multiply{
+    padding: 2rem;
+    margin:1rem;
+    border:none;
+    font-size: large;
+}
+#multiply:hover{
+    padding: 3rem;
+    margin:2rem;
+    border:5px solid green;
+    font-size:larger;
+    background-color: greenyellow;
+}
